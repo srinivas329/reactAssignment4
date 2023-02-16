@@ -1,0 +1,55 @@
+/* Write your CSS here */
+.details-bg {
+  background-color: #5755a7;
+  background-size: cover;
+  padding: 20px;
+}
+.banner {
+  width: 100%;
+}
+.latest-match-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  background-color: #1e293b;
+  background-size: cover;
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+}
+.latest-logo {
+  width: 100px;
+  height: 190px;
+  width: 30%;
+}
+.latest-name {
+  color: white;
+  font-family: bree serif;
+  margin: 0px;
+  margin-top: 20px;
+  font-size: 25px;
+}
+.date-venue {
+  width: 30%;
+  color: white;
+  font-family: bree serif;
+}
+.innings-card {
+  width: 30%;
+  color: white;
+  font-family: bree serif;
+}
+.bold-text {
+  font-size: 20px;
+}
+.team-name {
+  font-size: 30px;
+}
+.date {
+  font-size: 25px;
+}
+.card-ul {
+  display: flex;
+  flex-wrap: wrap;
+  width: 100%;
+}

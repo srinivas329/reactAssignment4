@@ -1,0 +1,33 @@
+/* Write your CSS here */
+.list-item1 {
+  list-style-type: none;
+  padding: 20px;
+
+  color: white;
+  font-family: bree serif;
+  text-decoration: none;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  background-color: #1e293b;
+  width: fit-content;
+  min-width: 30%;
+  max-width: 30%;
+  text-align: center;
+  margin: 10px;
+  border-radius: 10px;
+}
+.team-logo1 {
+  width: 100px;
+  height: 100px;
+  margin: auto;
+}
+.team-name1 {
+  font-size: 22px;
+}
+.lost {
+  color: #e31a1a;
+}
+.won {
+  color: #18ed66;
+}
